@@ -1,0 +1,38 @@
+
+.Title {
+    font-size: 80px;
+    padding-Top: 50px;
+    padding-Left: 50px;
+}
+
+
+
+
+img {
+    width: 500px;
+    height:  550px;
+}
+
+.info {
+    padding-left: 20px;
+    /* margin-left: 90px; */
+}
+
+.green {
+    color: green;
+}
+
+
+
+
+@media (max-width: 390px) {
+    img {
+        width: 250px;
+        height:  300px;
+    }
+    .Title {
+        font-size: 30px;
+        padding-Top: 10px;
+    padding-Left: 5px;
+    }
+}

@@ -1,0 +1,15 @@
+
+
+
+#line {
+    text-decoration: underline green;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+}
