@@ -9,10 +9,10 @@ function Navbar () {
         <div>
             <nav className="navbar" style={{justifyContent: 'flex-end', background: 'transparent'}} >
                 <ul className="page" style={{display: 'flex', justifyContent: 'space-around'}} >
-                 <Button className="home" variant="text" style={{  color: 'black', fontFamily: 'Bebas Neue', textDecoration: 'underline orange' }}>Home</Button>
-                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue' }}>About Me</Button>
-                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue' }}>Projects</Button>
-                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bebas Neue', paddingRight: '10px' }}>Contact</Button>
+                 <Button className="home" variant="text" style={{  color: 'black', fontFamily: 'Bubbler One' }}>Home</Button>
+                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bubbler One' }}>About Me</Button>
+                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bubbler One' }}>Projects</Button>
+                <Button variant="text" style={{ textDecoration: 'none', color: 'black', fontFamily: 'Bubbler One', paddingRight: '10px', background: 'green' }}>Contact</Button>
                 <a href={"mailto:ablavisarahsegla@gmail.com"}><MailIcon  style={{ textDecoration: 'none', color: 'black'}}/></a>
                 {/* <AddIcon/> */}
                 </ul>
