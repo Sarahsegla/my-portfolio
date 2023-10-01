@@ -15,7 +15,7 @@ npm start
 
 ## Link 
 
-- [https://golden-nougat-e78125.netlify.app/](https://taupe-parfait-ef8635.netlify.app/)https://taupe-parfait-ef8635.netlify.app/
+- https://taupe-parfait-ef8635.netlify.app/
 
 
 ## screenshot
