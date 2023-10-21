@@ -20,7 +20,7 @@ export default function AutoGrid() {
     <Box sx={{ flexGrow: 1 }} data-aos="fade-up">
       <Grid container spacing={3}>
         <Grid item xs >
-          <h1 className="Title" style={{ zIndex: '2', fontFamily: 'Days One' }}>Hello There, I'm Sarah</h1>
+          <h1 className="Title" id="home" style={{ zIndex: '2', fontFamily: 'Days One' }}>Hello There, I'm Sarah</h1>
         </Grid>
         <Grid item xs={8} >
           

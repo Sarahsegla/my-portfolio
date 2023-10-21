@@ -10,7 +10,7 @@ function ImageCarousel()
     return (
         <div>
             <div className='projects' style={{ paddingLeft: '50px', fontSize: '30px'}}>
-            <h2 style={{display: 'inline'}}> 
+            <h2 id="project" style={{display: 'inline'}}> 
                 <span id="line">My</span> Projects </h2>
                 </div>
         

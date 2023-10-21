@@ -15,7 +15,7 @@ function About () {
     }, [])
     return (
         <div>
-             <div className="subhead" style={{ paddingTop: '70px', paddingLeft: '50px', fontSize: '30px'}}>
+             <div className="subhead" id="about" style={{ paddingTop: '70px', paddingLeft: '50px', fontSize: '30px'}}>
                 <h2 style={{display: 'inline'}}> 
                 <span id="line">About</span> Me </h2>
              </div>

@@ -8,7 +8,7 @@ import Email from "../../components/email/email";
 function Contact () {
     return (
         <div>
-            <div className='contact' >
+            <div className='contact'id="contact" >
             <div className='projects' style={{ paddingLeft: '50px',paddingBottom: '100px', fontSize: '30px'}}>
             <h2 style={{display: 'inline'}}> 
                 <span id="line">Contact</span> Me </h2> <MailIcon/>
